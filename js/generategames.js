@@ -42,7 +42,7 @@ function createGames(data) {
       tileCount++;
 
       link.addEventListener("click", function () {
-        window.open(url, '_blank');
+        window.open(url);
         const url = link.href;
       });
       
