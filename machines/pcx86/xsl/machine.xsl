@@ -11,7 +11,7 @@
 	<xsl:include href="machines/pcx86/xsl/common.xsl"/>
 	<xsl:include href="machines/pcx86/xsl/components.xsl"/>
 
-	<xsl:template match="/machine">
+	<xsl:template match="machine">
 		<xsl:variable name="machineType">
 			<xsl:choose>
 				<xsl:when test="@type"><xsl:value-of select="@type"/></xsl:when>
@@ -56,17 +56,6 @@
 						</xsl:choose>
 					</xsl:with-param>
 				</xsl:call-template>
-				<xsl:text disable-output-escaping="yes">
-				<![CDATA[
-				<script async src="https://www.googletagmanager.com/gtag/js?id=G-LDVG8LST9P"></script>
-				<script>
-					window.dataLayer = window.dataLayer || [];
-					function gtag(){dataLayer.push(arguments);}
-					gtag('js', new Date());
-					gtag('config', 'G-LDVG8LST9P');
-				</script>
-				]]>
-				</xsl:text>
 			</body>
 		</html>
 	</xsl:template>

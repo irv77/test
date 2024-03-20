@@ -79,7 +79,7 @@
 		<control type="key" binding="m" top="126px" left="48.00%" width="3.78%">M</control>
 		<control type="key" binding="," top="126px" left="52.67%" width="3.78%">, &lt;</control>
 		<control type="key" binding="." top="126px" left="57.33%" width="3.78%">. &gt;</control>
-		<control type="key" binding="/" top="126px" left="62.00%" width="3.78%">/ ?</control>
+		<control type="key" binding="" top="126px" left="62.00%" width="3.78%">/ ?</control>
 		<control type="key" binding="right-shift" top="126px" left="66.67%" width="13.11%">Shift</control>
 		<control type="key" binding="num-end" top="126px" left="82.00%" width="3.78%">1</control>
 		<control type="key" binding="num-down" top="126px" left="86.67%" width="3.78%">&#8595; 2</control>
@@ -162,7 +162,7 @@
 		<control type="key" binding="m" top="168px" left="43.24%" width="5.00%">M</control>
 		<control type="key" binding="," top="168px" left="49.41%" width="5.00%">, &lt;</control>
 		<control type="key" binding="." top="168px" left="55.59%" width="5.00%">. &gt;</control>
-		<control type="key" binding="/" top="168px" left="61.76%" width="5.00%">/ ?</control>
+		<control type="key" binding="" top="168px" left="61.76%" width="5.00%">/ ?</control>
 		<control type="key" binding="right-shift" top="168px" left="67.94%" width="5.00%">Shift</control>
 		<control type="key" binding="prtsc" top="168px" left="74.12%" width="5.00%">PrtSc</control>
 		<control type="key" binding="num-end" top="168px" left="82.06%" width="5.00%">1</control>

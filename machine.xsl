@@ -11,7 +11,7 @@
 	<xsl:include href="machines/pcx86/xsl/common.xsl"/>
 	<xsl:include href="machines/pcx86/xsl/components.xsl"/>
 
-	<xsl:template match="/machine">
+	<xsl:template match="machine">
 		<xsl:variable name="machineType">
 			<xsl:choose>
 				<xsl:when test="@type"><xsl:value-of select="@type"/></xsl:when>

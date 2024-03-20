@@ -15,30 +15,30 @@
 		<meta name="viewport" content="initial-scale=1"/>
 		<meta name="description" content="Welcome to PCjs, home of the original IBM PC emulator for web browsers."/>
 		<meta name="apple-mobile-web-app-title" content="PCjs"/>
-		<meta name="twitter:image" property="og:image" content="/assets/img/logo-home.png"/>
+		<meta name="twitter:image" property="og:image" content="assets/img/logo-home.png"/>
 		<meta name="twitter:title" property="og:title" content="PCjs Machines"/>
 		<meta name="twitter:card" content="summary_large_image"/>
 		<meta name="twitter:site" content="@jeffpar"/>
-		<link rel="apple-touch-icon" sizes="180x180" href="/assets/icons/apple-touch-icon.png"/>
-		<link rel="icon" type="image/png" sizes="32x32" href="/assets/icons/favicon-32x32.png"/>
-		<link rel="icon" type="image/png" sizes="16x16" href="/assets/icons/favicon-16x16.png"/>
-		<link rel="shortcut icon" href="/assets/icons/favicon.ico"/>
-		<link rel="mask-icon" href="/assets/icons/safari-pinned-tab.svg" color="#5bbad5"/>
-		<link rel="stylesheet" type="text/css" href="/machines/pcx86/xsl/common.css"/>
+		<link rel="apple-touch-icon" sizes="180x180" href="assets/icons/apple-touch-icon.png"/>
+		<link rel="icon" type="image/png" sizes="32x32" href="assets/icons/favicon-32x32.png"/>
+		<link rel="icon" type="image/png" sizes="16x16" href="assets/icons/favicon-16x16.png"/>
+		<link rel="shortcut icon" href="assets/icons/favicon.ico"/>
+		<link rel="mask-icon" href="assets/icons/safari-pinned-tab.svg" color="#5bbad5"/>
+		<link rel="stylesheet" type="text/css" href="machines/pcx86/xsl/common.css"/>
 		<link href="https://fonts.googleapis.com/css?family=Titillium+Web" rel="stylesheet"/>
 	</xsl:template>
 
 	<xsl:template name="commonTop">
 		<div class="common-top">
 			<div class="common-top-left">
-				<h2><a href="/">PCjs Machines</a></h2>
+				<h2><a href="">PCjs Machines</a></h2>
 			</div>
 			<div class="common-top-right">
 				<ul>
-					<li><a href="/about/">About</a></li>
+					<li><a href="about/">About</a></li>
 					<li><a href="https://www.pcjs.org/blog/">Blog</a></li>
 					<li><a href="https://github.com/jeffpar/pcjs">Repository</a></li>
-					<li><a href="/tools/">Tools</a></li>
+					<li><a href="tools/">Tools</a></li>
 				</ul>
 			</div>
 		</div>
