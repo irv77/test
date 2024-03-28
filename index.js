@@ -1,1 +1,0 @@
-window.screenOrientation="sensor_landscape",loadLib("sdk/laya/2.9.0/laya.core.js"),loadLib("sdk/laya/2.9.0/laya.ani.js"),loadLib("sdk/laya/2.9.0/laya.particle.js"),loadLib("sdk/laya/2.9.0/laya.ui.js"),loadLib("sdk/laya/2.9.0/laya.d3.js"),loadLib("sdk/laya/2.9.0/laya.physics3D.js"),loadLib("qxlib/qx.min.js"),loadLib("js/bundle.js");
